@@ -1,5 +1,5 @@
 customhost = "twotier.cd78najmcvqj.us-east-1.rds.amazonaws.com"
-customuser = "aws_user"
+customuser = "admin"
 custompass = "abcd1234"
 customdb = "twotier"
 custombucket = "jinsiang-bucket"
