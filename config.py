@@ -1,7 +1,7 @@
-customhost = "assignment.cd78najmcvqj.us-east-1.rds.amazonaws.com"
+customhost = "twotier.cd78najmcvqj.us-east-1.rds.amazonaws.com"
 customuser = "aws_user"
 custompass = "abcd1234"
-customdb = "assignment"
+customdb = "twotier"
 custombucket = "jinsiang-bucket"
 customregion = "us-east-1"
 
